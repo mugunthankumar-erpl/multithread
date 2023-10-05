@@ -1,0 +1,18 @@
+
+{
+  "documents": {
+    "345": {
+      "document": {
+        "entry": "INV-115-2023.xml",
+        "fields": {
+          "eDocStatus": "RC",
+          "isFPA": false,
+          "eRemappedDocStatus": "PROCESSING",
+          "docType": "invoices",
+          "idSDI": "9598183025"
+        },
+        "date": 1683653988
+      }
+    }
+  }
+}
